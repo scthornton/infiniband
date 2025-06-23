@@ -1,4 +1,4 @@
-# InfiniBand Comprehensive Study Guide - Enhanced Edition
+# InfiniBand Study Guide and Notes
 
 ## Table of Contents
 1. [What is InfiniBand?](#what-is-infiniband)

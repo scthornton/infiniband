@@ -1,0 +1,13 @@
+# Documentation
+.DS_Store
+
+# AI tool artifacts
+.claude/
+CLAUDE.md
+claude.md
+planning.md
+status.md
+notes.md
+todo.md
+*.chat
+*.conversation

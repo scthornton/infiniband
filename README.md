@@ -476,3 +476,17 @@ mst status
 The key to mastering InfiniBand is understanding that it's designed for **speed, efficiency, and scale** - everything else follows from these core principles! Whether you're troubleshooting fabric issues, selecting the right routing engine, or optimizing for specific workloads, always consider how each decision impacts these fundamental goals.
 
 The combination of hardware-based transport, lossless networking, and intelligent management makes InfiniBand the backbone of modern HPC, AI, and high-performance computing environments. Master these concepts, and you'll be well-equipped to design, deploy, and troubleshoot even the most complex InfiniBand fabrics.
+
+---
+
+## Contact
+
+**Scott Thornton** — AI Security Researcher
+
+- Website: [perfecxion.ai](https://perfecxion.ai/)
+- Email: [scott@perfecxion.ai](mailto:scott@perfecxion.ai)
+- LinkedIn: [linkedin.com/in/scthornton](https://www.linkedin.com/in/scthornton)
+- ORCID: [0009-0008-0491-0032](https://orcid.org/0009-0008-0491-0032)
+- GitHub: [@scthornton](https://github.com/scthornton)
+
+**Security Issues**: Please report via [SECURITY.md](SECURITY.md)
